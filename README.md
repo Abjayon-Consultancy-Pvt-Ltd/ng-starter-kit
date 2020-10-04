@@ -23,5 +23,7 @@ It will also have lot of helper configurable wrapper components  over Angular Ma
 * pop up
 * Helper Rxjs operators
 
+## Contributing Guide
 
+Its a project by the community and for the community. To start contributing please go to out contributing page
 
