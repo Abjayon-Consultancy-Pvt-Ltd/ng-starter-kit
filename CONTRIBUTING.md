@@ -18,6 +18,10 @@ Better pull requests means, its easy to code review and will be merged quickly.
 - [x] Proper description, incase you think commit messages was not enough to explain the code change.(optional)
 - [x] Passing of all pre-commit hooks.
 
+## Suggesting code improvements
+
+Maintaining the high quality of code is most important for us. If you see anywhere space for code improvements please raise the PR with code change or just add an issue with the suggested changes and if possible please also add a reference or article for us to implement.
+
 ## Steps for contributing code change or documentation.
 
 Please follow these initial steps for forking and cloning https://medium.com/@jenweber/your-first-open-source-contribution-a-step-by-step-technical-guide-d3aca55cc5a6
