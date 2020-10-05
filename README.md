@@ -46,7 +46,11 @@ It will also have lot of helper configurable wrapper components  over Angular Ma
 
 ## Technical Details
 
-
+Package | Version
+------- | -------------
+Angular | 9.1.12
+Typescript | 3.8.3
+RxJS | 6.5.4
 
 ## Contributing Guide
 
