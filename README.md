@@ -25,24 +25,24 @@ and its done :confetti_ball::confetti_ball::confetti_ball:. Now you can create y
 
 The starter will have helper services for following,
 
-* Logging
-* Error handling
-* Authentication
-* HTTP calls wrapper service
-* multiple unsubscription
-* CI/CD
-* Pre commit hooks configurable
-* Support for multiple languages
-* Async local and session storage services
+- [ ] Logging
+- [ ] Error handling
+- [ ] Authentication
+- [ ] HTTP calls wrapper service
+- [ ] multiple unsubscription
+- [ ] CI/CD
+- [ ] Pre commit hooks configurable
+- [ ] Support for multiple languages
+- [ ] Async local and session storage services
 
 It will also have lot of helper configurable wrapper components  over Angular Material CDK
 
-* Breadcrumbs
-* side navigation
-* Auto comnplete
-* toastr
-* pop up
-* Helper Rxjs operators
+- [ ] Breadcrumbs
+- [ ] side navigation
+- [ ] Auto comnplete
+- [ ] toastr
+- [ ] pop up
+- [ ] Helper Rxjs operators
 
 ## Technical Details
 
