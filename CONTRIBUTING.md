@@ -17,3 +17,28 @@ Better pull requests means, its easy to code review and will be merged quickly.
 - [x] Unit test for the changed code, every code change requires changes in unit test or new test to be added.
 - [x] Proper description, incase you think commit messages was not enough to explain the code change.(optional)
 - [x] Passing of all pre-commit hooks.
+
+## Steps for contributing code change or documentation.
+
+Please follow these initial steps for forking and cloning https://medium.com/@jenweber/your-first-open-source-contribution-a-step-by-step-technical-guide-d3aca55cc5a6
+
+After you clone the project follow these steps,
+
+1. create your own branch from develop.
+```
+git checkout develop
+
+git checkout -b feature:aweosme-feature-no:awesome-feature-branch-name
+```
+2. Make sure you follow all our coding standards and commit.
+
+```
+git commit -m feature:aweosme-feature-no my change for awesome feature
+```
+make sure you attach the issue no in your branch name and all commit messages.
+
+3. Push your changes to your fork and create a PR.
+4. Check if your PR has all check points mentioned above.
+5. Update the code according the comments by the code reviewer.
+
+Thats it !! :thumbsup::thumbsup: .. we wil merge your PR :heartpulse:
