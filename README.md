@@ -25,5 +25,5 @@ It will also have lot of helper configurable wrapper components  over Angular Ma
 
 ## Contributing Guide
 
-Its a project by the community and for the community. To start contributing please go to out contributing page
+Its a project by the community and for the community. To start contributing please go to out [contributing guidelines](./CONTRIBUTING.md)
 
