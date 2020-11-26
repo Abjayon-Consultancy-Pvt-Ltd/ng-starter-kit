@@ -72,6 +72,10 @@ Its a project by the community and for the community. To start contributing plea
       <img src="https://avatars2.githubusercontent.com/u/69186283?s=400&v=4" width="100px;" alt=""/>
       <br /><sub><b>VASAVI</b></sub></a>
     </td>
+    <td align="center"><a href="https://github.com/nehasingh30">
+      <img src="https://avatars3.githubusercontent.com/u/52376500?s=400&v=4" width="100px;" alt=""/>
+      <br /><sub><b>NEHA</b></sub></a>
+    </td>
   </tr>
 </table>
 
